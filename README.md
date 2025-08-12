@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sappidihemanth
 - 👀 I’m interested in backend developer 
-- 🌱 I’m currently learning java python html sql
-- 💞️ I’m looking to collaborate on java projects.
+- 🌱 I’m currently learning java python html sql bigdata javascript.
+- 💞️ I’m looking to collaborate on full stack development projects.
 - 📫 How to reach me @7396109526
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I can easy to interact with new people.
